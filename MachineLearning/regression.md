@@ -84,18 +84,18 @@ $y' = b + w_1x_1$
 - RMSE：均方根誤差
 
 **MSE**：Mean Squared Error
-$$
+$
 \mathrm{MSE} = \frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y}_i)^2
-$$
+$
 
 **MAE**：Mean Squared Error
-$$
+$
 \mathrm{MAE} = \frac{1}{n}\sum_{i=1}^{n}\left|y_i-\hat{y}_i\right|
-$$
+$
 
 **RMSE**：Root Mean Squared Error
 
-$$
+$
 \mathrm{RMSE}
 =
 \sqrt{
@@ -103,7 +103,7 @@ $$
 \sum_{i=1}^{n}
 (y_i-\hat{y}_i)^2
 }
-$$
+$
 
 如何選擇？
 

@@ -90,10 +90,7 @@ $$
 
 **MAE**：Mean Squared Error
 $$
-\mathrm{MAE} =
-\frac{1}{n}
-\sum_{i=1}^{n}
-\left| y_i - \hat{y}_i \right|
+\mathrm{MAE} = \frac{1}{n}\sum_{i=1}^{n}\left|y_i-\hat{y}_i\right|
 $$
 
 **RMSE**：Root Mean Squared Error
